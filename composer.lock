@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "eb3f9f568c55c27df9687f9fd51c245b",
+    "content-hash": "427fc5dc5bd206a2f97d1878aace9df3",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -1946,16 +1946,16 @@
         },
         {
             "name": "amranidev/scaffold-interface",
-            "version": "v1.7.1",
+            "version": "v1.6.35",
             "source": {
                 "type": "git",
                 "url": "https://github.com/amranidev/scaffold-interface.git",
-                "reference": "bbcf5955fa1298aada71552005d0a24927cbd244"
+                "reference": "fd5df90d07837b087847b86ceda9c37214d366eb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/amranidev/scaffold-interface/zipball/bbcf5955fa1298aada71552005d0a24927cbd244",
-                "reference": "bbcf5955fa1298aada71552005d0a24927cbd244",
+                "url": "https://api.github.com/repos/amranidev/scaffold-interface/zipball/fd5df90d07837b087847b86ceda9c37214d366eb",
+                "reference": "fd5df90d07837b087847b86ceda9c37214d366eb",
                 "shasum": ""
             },
             "require": {
@@ -1972,7 +1972,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.8.x-dev"
+                    "dev-master": "1.7.x-dev"
                 }
             },
             "autoload": {
@@ -2013,7 +2013,7 @@
                 "smart crud generator",
                 "smart generator"
             ],
-            "time": "2017-02-20T15:15:59+00:00"
+            "time": "2016-12-30T23:46:57+00:00"
         },
         {
             "name": "doctrine/instantiator",
